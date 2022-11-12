@@ -9,6 +9,8 @@
 - Major languages : HTML, CSS & JavaScript
 - Frameworks : Bootstrap
 
+![image](./images/awesome_books.png)
+
 ## Getting Started
 
 For this project we implemented adding and removing of books using JavaScript
